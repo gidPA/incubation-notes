@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "578b6bc723ae2b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ff7f9576ce222a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ee55a4d87a725a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "ddbe9632354e877b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set up an Nginx Reverse proxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set up an Nginx Reverse proxy"
+            }
+          },
+          {
+            "id": "3131b73b45c21817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installing Debian 12 VM with LAN Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installing Debian 12 VM with LAN Access"
+            }
+          },
+          {
+            "id": "aa68639f78154f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f46e326fa633f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bec5861bfdd126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb8e8ae69f0390b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36cbaa96bd5f3e54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "942802b914d31484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1f5869c213ab45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c712043de462e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20207435fb51b5df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test"
+            }
+          },
+          {
+            "id": "b3bfb914f06dfb60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test"
+            }
+          },
+          {
+            "id": "54e66307d9663e93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66288f564fcc7668",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddbe9632354e877b",
+  "lastOpenFiles": [
+    "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
+    "Set up an Nginx Reverse proxy.md",
+    "Setup .NET Environment in Debian 12 (x86 Platform).md",
+    "Setup .NET Environment in Debian 12 (Raspberry Pi).md",
+    "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
+    "Installing Debian 12 VM with LAN Access.md",
+    "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
+    "Raspberry Pi Initial Setup.md",
+    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
+    "Home.md",
+    "create a link.md",
+    "Welcome.md",
+    "Test.md"
+  ]
+}
