@@ -1,5 +1,5 @@
 #### Prerequisite
-install `avahi-daemon`, `avahi-utils`
+install `avahi-daemon`, `avahi-utils` on the host ubuntu PC
 
 Connect both the host PC and Raspberry Pi with a LAN cable
 
