@@ -44,13 +44,13 @@ client_max_body_size 20M;
 Save the file, then run the nginx's config file validator to ensure that there are no syntax errors:
 
 ```bash
-sudo nginx -c
+sudo nginx -t
 ```
 
 If there are no syntax errors, restart the nginx service to apply the changes
 
-```
-systemctl restart nginx
+```bash
+sudo systemctl restart nginx
 ```
 
 Verify if the setup is working by accessing the ip/domain name with the default port (80).

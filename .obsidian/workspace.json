@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry Pi Initial Setup.md",
+                "file": "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raspberry Pi Initial Setup"
+              "title": "How to publish a self-contained executable .NET app into .deb package"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 723.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +194,19 @@
   },
   "active": "3131b73b45c21817",
   "lastOpenFiles": [
-    "Installing Debian 12 VM with LAN Access.md",
+    "Debian package files/Introduction to debian installation package.md",
+    "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
+    "Untitled.canvas",
+    "Debian package files",
+    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
+    "Set up an Nginx Reverse proxy.md",
     "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
     "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
-    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
+    "Raspberry Pi Initial Setup.md",
+    "Installing Debian 12 VM with LAN Access.md",
     "Setup .NET Environment in Debian 12 (x86 Platform).md",
     "Setup .NET Environment in Debian 12 (Raspberry Pi).md",
     "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
-    "Set up an Nginx Reverse proxy.md",
-    "Raspberry Pi Initial Setup.md",
     "Home.md",
     "create a link.md",
     "Welcome.md",
