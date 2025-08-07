@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 588.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +194,8 @@
   },
   "active": "3131b73b45c21817",
   "lastOpenFiles": [
-    "Debian package files/Introduction to debian installation package.md",
     "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
+    "Debian package files/Introduction to debian installation package.md",
     "Untitled.canvas",
     "Debian package files",
     "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
