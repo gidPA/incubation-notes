@@ -188,3 +188,7 @@ sudo apt remove myapp
 
 - In the configuration files above, it is important to leave an empty line at the end of each file.
 - When you build a `.deb` package, **any directory structure under the root of your package**, such as `etc/systemd/system`, **mimics the real Linux filesystem**, and `dpkg` will copy it **verbatim to the corresponding locations on the system** during installation.
+
+### Template script to automate above steps
+
+[[Script to automate .deb package creation]]

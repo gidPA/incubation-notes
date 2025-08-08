@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
+                "file": "CICD & Jenkins/Introduction to CICD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to publish a self-contained executable .NET app into .deb package"
+              "title": "Introduction to CICD"
             }
           },
           {
@@ -156,31 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "Installing Debian 12 VM with LAN Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
-            }
-          },
-          {
-            "id": "ddbe9632354e877b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Outline of Installing Debian 12 VM with LAN Access"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 588.5
+    "width": 588.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,19 +185,28 @@
   },
   "active": "3131b73b45c21817",
   "lastOpenFiles": [
-    "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
-    "Debian package files/Introduction to debian installation package.md",
-    "Untitled.canvas",
-    "Debian package files",
-    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
+    "CICD & Jenkins/Setting Up Jenkins Pipeline.md",
+    "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
     "Set up an Nginx Reverse proxy.md",
-    "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
-    "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
     "Raspberry Pi Initial Setup.md",
     "Installing Debian 12 VM with LAN Access.md",
+    "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
+    "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
+    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
+    "Debian package files/Script to automate .deb package creation.md",
+    "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
+    "CICD & Jenkins/Introduction to CICD.md",
+    "CICD & Jenkins/Creating a Jenkinsfile.md",
+    "CICD & Jenkins/Introduction to Jenkins.md",
+    "CICD & Jenkins/Untitled",
+    "8.md",
+    "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
+    "Debian package files/Introduction to debian installation package.md",
+    "CICD & Jenkins",
+    "Untitled.canvas",
+    "Debian package files",
     "Setup .NET Environment in Debian 12 (x86 Platform).md",
     "Setup .NET Environment in Debian 12 (Raspberry Pi).md",
-    "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
     "Home.md",
     "create a link.md",
     "Welcome.md",
