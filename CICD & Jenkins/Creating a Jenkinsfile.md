@@ -1,4 +1,4 @@
-A `Jenkinsfile` is a text file that tells Jenkins **how to build, test, and deploy** our code. It’s written in Groovy syntax and stored in your source code repository.
+A `Jenkinsfile` is a text file that tells Jenkins **how to build, test, and deploy** our code. It’s written in Groovy syntax and stored in our source code repository.
 
 This allows you to treat our build pipeline as **code** (Pipeline-as-Code), making it **version-controlled**, **auditable**, and **repeatable**.
 

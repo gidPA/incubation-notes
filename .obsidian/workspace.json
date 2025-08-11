@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD & Jenkins/Introduction to CICD.md",
+                "file": "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to CICD"
+              "title": "Jenkins Pipeline Example - NET 9 Project Build & Packaging"
             }
           },
           {
@@ -185,7 +185,12 @@
   },
   "active": "3131b73b45c21817",
   "lastOpenFiles": [
+    "CICD & Jenkins/Introduction to CICD.md",
+    "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
     "CICD & Jenkins/Setting Up Jenkins Pipeline.md",
+    "CICD & Jenkins/Creating a Jenkinsfile.md",
+    "NuGet Packages/Structure of NuGet's .nupkg files.md",
+    "NuGet Packages",
     "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
     "Set up an Nginx Reverse proxy.md",
     "Raspberry Pi Initial Setup.md",
@@ -194,9 +199,6 @@
     "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
     "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
     "Debian package files/Script to automate .deb package creation.md",
-    "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
-    "CICD & Jenkins/Introduction to CICD.md",
-    "CICD & Jenkins/Creating a Jenkinsfile.md",
     "CICD & Jenkins/Introduction to Jenkins.md",
     "CICD & Jenkins/Untitled",
     "8.md",

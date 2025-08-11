@@ -36,7 +36,7 @@ pipeline {
             steps {
                 sh '''
                     echo "Restoring project dependencies..."
-                    dotnet restore RepositoryManager/RepositoryManager.csproj
+                    dotnet restore SampleLibrary/SampleLibrary.csproj
                 '''
             }
         }
@@ -45,7 +45,7 @@ pipeline {
             steps {
                 sh '''
                     echo "Running build and packaging script..."
-                    dotnet build RepositoryManager/RepositoryManager.csproj  --configuration Release
+                    dotnet build SampleLibrary/SampleLibrary.csproj  --configuration Release
                 '''
             }
         }
@@ -54,7 +54,7 @@ pipeline {
             steps {
                 sh '''
                     echo "Running unit test..."
-                    dotnet test RepositoryManagerTest/RepositoryManagerTest.csproj
+                    dotnet test SampleLibraryTest/SampleLibraryTest.csproj
                 '''
             }
         }
@@ -63,14 +63,14 @@ pipeline {
             steps {
                 sh '''
                 echo "Creating Nuget Package..."
-                dotnet pack RepositoryManager/RepositoryManager.csproj --configuration Release
+                dotnet pack SampleLibrary/SampleLibrary.csproj --configuration Release
                 '''
             }
         }
 
         stage('Archive Artifacts: Store Nuget packages') {
             steps {
-                archiveArtifacts artifacts: 'RepositoryManager/bin/Release/*.nupkg', onlyIfSuccessful: true
+                archiveArtifacts artifacts: 'SampleLibrary/bin/Release/*.nupkg', onlyIfSuccessful: true
             }
         }
     }
@@ -86,7 +86,7 @@ pipeline {
 }
 ```
 
-This Jenkinsfile defines a **declarative pipeline** to build a .NET 9 project inside a Docker container. It’s designed for projects that require restoring dependencies, building the code, running unit tests, and packaging it into a NuGet package.
+This Jenkinsfile defines a **declarative pipeline** to build a .NET 9 project inside a Docker container. It’s designed for projects that require restoring dependencies, building the code, running unit tests, and packaging it into a [[Structure of NuGet's .nupkg files|NuGet package]].
 
 ---
 
