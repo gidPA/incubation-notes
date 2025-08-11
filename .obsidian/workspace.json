@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
+                "file": "NuGet Packages/Creating a New NuGet Package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jenkins Pipeline Example - NET 9 Project Build & Packaging"
+              "title": "Creating a New NuGet Package"
             }
           },
           {
@@ -185,11 +185,16 @@
   },
   "active": "3131b73b45c21817",
   "lastOpenFiles": [
-    "CICD & Jenkins/Introduction to CICD.md",
-    "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
-    "CICD & Jenkins/Setting Up Jenkins Pipeline.md",
-    "CICD & Jenkins/Creating a Jenkinsfile.md",
+    "NuGet Packages/Testing a Nuget Package Locally.md",
     "NuGet Packages/Structure of NuGet's .nupkg files.md",
+    "NuGet Packages/Creating a New NuGet Package.md",
+    "Debian package files/Script to automate .deb package creation.md",
+    "Debian package files/Introduction to debian installation package.md",
+    "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
+    "CICD & Jenkins/Setting Up Jenkins Pipeline.md",
+    "CICD & Jenkins/Jenkins Pipeline Example - NET 9 Project Build & Packaging.md",
+    "CICD & Jenkins/Introduction to CICD.md",
+    "CICD & Jenkins/Creating a Jenkinsfile.md",
     "NuGet Packages",
     "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
     "Set up an Nginx Reverse proxy.md",
@@ -198,12 +203,9 @@
     "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
     "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
     "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
-    "Debian package files/Script to automate .deb package creation.md",
     "CICD & Jenkins/Introduction to Jenkins.md",
     "CICD & Jenkins/Untitled",
     "8.md",
-    "Debian package files/How to publish a self-contained executable .NET app into .deb package.md",
-    "Debian package files/Introduction to debian installation package.md",
     "CICD & Jenkins",
     "Untitled.canvas",
     "Debian package files",
