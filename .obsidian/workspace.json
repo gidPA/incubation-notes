@@ -11,14 +11,12 @@
             "id": "3131b73b45c21817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Device-to-Device Communication/CAN/CAN Frame Properties.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20250813090459.png"
               },
-              "icon": "lucide-file",
-              "title": "CAN Frame Properties"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250813090459"
             }
           },
           {
@@ -183,14 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3131b73b45c21817",
+  "active": "fb8e8ae69f0390b7",
   "lastOpenFiles": [
+    "Device-to-Device Communication/CAN/CAN Frame Properties.md",
     "Device-to-Device Communication/CAN/CAN Bus Physical Layer Properties.md",
     "Device-to-Device Communication/CAN/Scenario of CAN Bus's Typical Data Transmissions.md",
-    "Device-to-Device Communication/CAN/CAN Frame Properties.md",
-    "Pasted image 20250813090459.png",
+    "assets/Pasted image 20250813090459.png",
     "Device-to-Device Communication/CAN/About CAN Bus Protocol.md",
-    "Pasted image 20250813084547.png",
+    "assets/Pasted image 20250813084547.png",
     "assets/Pasted image 20250813084437.png",
     "assets/Pasted image 20250813084358.png",
     "assets/Pasted image 20250813083900.png",
