@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ff7f9576ce222a",
+        "id": "a14f296df6a87388",
         "type": "tabs",
         "children": [
           {
-            "id": "3131b73b45c21817",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20250813090459.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250813090459"
-            }
-          },
-          {
-            "id": "aa68639f78154f1a",
+            "id": "44d3a08854a56d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image.md",
+                "file": "N4313 Barcode Scanner/About N4313 Barcode Scanner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up Raspberry Pi SD Card with Formulatrix's Official OS Image"
+              "title": "About N4313 Barcode Scanner"
             }
           }
         ]
@@ -173,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,19 +170,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8e8ae69f0390b7",
+  "active": "44d3a08854a56d8e",
   "lastOpenFiles": [
-    "Device-to-Device Communication/CAN/CAN Frame Properties.md",
-    "Device-to-Device Communication/CAN/CAN Bus Physical Layer Properties.md",
+    "Multithreaded and Asynchronous CSharp/CancellationToken and CancellationTokenSource.md",
+    "N4313 Barcode Scanner/About N4313 Barcode Scanner.md",
+    "N4313 Barcode Scanner",
+    "Multithreaded and Asynchronous CSharp/TaskCompletionSource.md",
     "Device-to-Device Communication/CAN/Scenario of CAN Bus's Typical Data Transmissions.md",
+    "Multithreaded and Asynchronous CSharp",
+    "Device-to-Device Communication/CAN/CAN Frame Properties.md",
+    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
     "assets/Pasted image 20250813090459.png",
+    "Device-to-Device Communication/CAN/CAN Bus Physical Layer Properties.md",
     "Device-to-Device Communication/CAN/About CAN Bus Protocol.md",
     "assets/Pasted image 20250813084547.png",
     "assets/Pasted image 20250813084437.png",
     "assets/Pasted image 20250813084358.png",
     "assets/Pasted image 20250813083900.png",
     "Deploy .NET Applications to Debian Linux (using framework-dependent executables).md",
-    "Connecting Raspberry Pi to Wi-Fi using wpa_supplicant.md",
     "assets/Standard-CAN-frame-format.ppm",
     "assets/Unconfirmed 437329.crdownload",
     "assets",
@@ -219,10 +213,6 @@
     "NuGet Packages",
     "CICD & Jenkins/Introduction to Jenkins.md",
     "CICD & Jenkins/Untitled",
-    "8.md",
-    "CICD & Jenkins",
-    "Untitled.canvas",
-    "Debian package files",
-    "Setup .NET Environment in Debian 12 (x86 Platform).md"
+    "Untitled.canvas"
   ]
 }

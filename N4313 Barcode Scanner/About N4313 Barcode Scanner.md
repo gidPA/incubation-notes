@@ -1,0 +1,2 @@
+The N4313 barcode scanner is a laser-based barcode scanner engine. It is designed to be integrated into a wide range of OEM devices. The engine’s compact mechanical design can drop into many existing applications, allowing OEMs and third-party manufacturers to integrate the benefits of laser-based scanning into a variety of devices, including hand held computers (PDTs, medical instrumentation, kiosks, diagnostic equipment, and
+robotics).

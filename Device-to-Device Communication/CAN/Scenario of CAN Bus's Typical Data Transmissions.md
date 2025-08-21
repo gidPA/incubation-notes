@@ -29,7 +29,6 @@ The typical scenario of a data transmission from a node is as follows:
     - The highest-priority node continues without delay.
 
 - An example of arbitration stage can be seen in the timing diagram below:
-  
   ![](https://www.researchgate.net/publication/221582662/figure/fig2/AS:852943515418624@1580368989905/CAN-message-top-and-priority-arbitration-example-bottom.ppm)
 - **Bit 10 to Bit 6**: All three nodes match the bus level → no one loses yet.
 - **Bit 5**:
