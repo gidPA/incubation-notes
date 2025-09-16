@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/Creational Pattern/Builder Pattern.md",
+                "file": "Design Pattern/Behavioral Pattern/State Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Builder Pattern"
+              "title": "State Pattern"
             }
           }
         ]
@@ -172,15 +172,21 @@
   },
   "active": "44d3a08854a56d8e",
   "lastOpenFiles": [
+    "Design Pattern/Behavioral Pattern/Strategy Pattern.md",
+    "Design Pattern/Structural Pattern/Adapter Pattern.md",
+    "Design Pattern/Structural Pattern/Bridge Pattern.md",
+    "Design Pattern/Structural Pattern/Composite Pattern.md",
     "Design Pattern/Creational Pattern/Factory Method Pattern.md",
     "Design Pattern/Creational Pattern/Builder Pattern.md",
     "Design Pattern/Creational Pattern/Abstract Factory Pattern.md",
-    "Design Pattern/Structural Pattern/Adapter Pattern.md",
-    "Design Pattern/Structural Pattern/Bridge Pattern.md",
     "Design Pattern/Behavioral Pattern/State Pattern.md",
-    "Design Pattern/The SOLID Principle.md",
-    "Installing Debian 12 VM with LAN Access.md",
     "Design Pattern/Behavioral Pattern/Observer Pattern.md",
+    "Design Pattern/Behavioral Pattern/Command Pattern.md",
+    "Design Pattern/The SOLID Principle.md",
+    "Multithreaded and Asynchronous CSharp/CancellationToken and CancellationTokenSource.md",
+    "Multithreaded and Asynchronous CSharp/TaskCompletionSource.md",
+    "Multithreaded and Asynchronous CSharp/Async-Await Basics.md",
+    "Installing Debian 12 VM with LAN Access.md",
     "Design Pattern/Untitled.md",
     "Design Pattern/Behavioral Pattern",
     "Design Pattern/Structural Pattern",
@@ -189,11 +195,8 @@
     "Device-to-Device Communication/CAN/CAN Frame Properties.md",
     "Device-to-Device Communication/CAN/CAN Bus Physical Layer Properties.md",
     "Device-to-Device Communication/CAN/About CAN Bus Protocol.md",
-    "Multithreaded and Asynchronous CSharp/CancellationToken and CancellationTokenSource.md",
     "Design Pattern",
     "Untitled.md",
-    "Multithreaded and Asynchronous CSharp/TaskCompletionSource.md",
-    "Multithreaded and Asynchronous CSharp/Async-Await Basics.md",
     "System-IO-Pipelines/About Pipelines.md",
     "Pipelines",
     "System-IO-Pipelines",
@@ -210,9 +213,6 @@
     "assets/Standard-CAN-frame-format.ppm",
     "assets/Unconfirmed 437329.crdownload",
     "Deploy .NET Applications to Debian Linux (using self-contained executable).md",
-    "Device-to-Device Communication/Untitled.md",
-    "NuGet Packages/Structure of NuGet's .nupkg files.md",
-    "CICD & Jenkins/Setting Up Jenkins Pipeline.md",
     "Untitled.canvas"
   ]
 }
