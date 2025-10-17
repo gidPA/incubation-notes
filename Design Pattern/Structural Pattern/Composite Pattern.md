@@ -1,4 +1,3 @@
-
 ### Intent
 
 The Composite design pattern allows treating individual objects and groups of object (compositions) in the same way. It is useful when working with hierarchical tree structures such as file systems, UI components, or organizational charts.
